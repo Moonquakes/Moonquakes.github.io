@@ -2,11 +2,11 @@
 
 # Site settings
 title: Xavier Blog
-SEOTitle: 薛宇豪的博客 | Xavier Blog
-header-img: img/post-bg-desk.jpg
+SEOTitle: Xavier Blog
+header-img: img/homepage.jpg
 email: 171250641@smail.nju.edu.cn
 description: "Everything will be okay in the end.If it is not okay, it is not the end."
-keyword: "Xavier, Xavier Blog, 薛宇豪的博客"
+keyword: "Xavier, Xavier Blog, Software Engineering"
 url: "https://moonquakes.github.io/"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/Moonquakes/Moonquakes.github.io.git" # you code repository
@@ -22,8 +22,8 @@ sidebar: true                           # whether or not using Sidebar.
 RSS: false
 # weibo_username:     qiubaiying
 # zhihu_username:  
-# github_username: 
-# facebook_username:
+github_username: Moonquakes
+# facebook_username: Moonquakes
 # jianshu_username: 
 #twitter_username:   qiubaiying
 
@@ -88,14 +88,13 @@ ga_domain: auto               # 默认的是 auto, 这里我是自定义了的�
 
 # Featured Tags
 featured-tags: true                     # 是否使用首页标签
-featured-condition-size: 1              # 相同标签数量大于这个数，才会出现在首页
+featured-condition-size: 0              # 相同标签数量大于这个数，才会出现在首页
 
 
 
 # Progressive Web Apps
 chrome-tab-theme-color: "#000000"
 service-worker: true
-
 
 
 # Friends
